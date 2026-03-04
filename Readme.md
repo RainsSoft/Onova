@@ -1,9 +1,9 @@
 # Onova
 
-[![Status](https://img.shields.io/badge/status-maintenance-ffd700.svg)](https://github.com/Tyrrrz/.github/blob/master/docs/project-status.md)
+[![Status](https://img.shields.io/badge/status-maintenance-ffd700.svg)](https://github.com/Tyrrrz/.github/blob/prime/docs/project-status.md)
 [![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://tyrrrz.me/ukraine)
-[![Build](https://img.shields.io/github/actions/workflow/status/Tyrrrz/Onova/main.yml?branch=master)](https://github.com/Tyrrrz/Onova/actions)
-[![Coverage](https://img.shields.io/codecov/c/github/Tyrrrz/Onova/master)](https://codecov.io/gh/Tyrrrz/Onova)
+[![Build](https://img.shields.io/github/actions/workflow/status/Tyrrrz/Onova/main.yml?branch=prime)](https://github.com/Tyrrrz/Onova/actions)
+[![Coverage](https://img.shields.io/codecov/c/github/Tyrrrz/Onova/prime)](https://codecov.io/gh/Tyrrrz/Onova)
 [![Version](https://img.shields.io/nuget/v/Onova.svg)](https://nuget.org/packages/Onova)
 [![Downloads](https://img.shields.io/nuget/dt/Onova.svg)](https://nuget.org/packages/Onova)
 [![Discord](https://img.shields.io/discord/869237470565392384?label=discord)](https://discord.gg/2SUWKFnHSm)
@@ -25,7 +25,7 @@ The library requires minimal configuration, doesn't impose any changes to the CI
 
 ✨ See also [Onova.Publisher](https://github.com/dady8889/Onova.Publisher) — community project that provides an integrated installation experience based on **Onova**.
 
-## Terms of use<sup>[[?]](https://github.com/Tyrrrz/.github/blob/master/docs/why-so-political.md)</sup>
+## Terms of use<sup>[[?]](https://github.com/Tyrrrz/.github/blob/prime/docs/why-so-political.md)</sup>
 
 By using this project or its source code, for any purpose and in any shape or form, you grant your **implicit agreement** to all the following statements:
 

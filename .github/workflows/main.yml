@@ -14,19 +14,19 @@ on:
         default: false
   push:
     branches:
-      - master
+      - prime
     tags:
       - "*"
   pull_request:
     branches:
-      - master
+      - prime
 
 env:
   TEST_GITHUB_TOKEN: ${{ secrets.TEST_GITHUB_TOKEN }}
 
 jobs:
   main:
-    uses: Tyrrrz/.github/.github/workflows/nuget.yml@master
+    uses: Tyrrrz/.github/.github/workflows/nuget.yml@prime
     with:
       windows-only: true
       deploy: ${{ inputs.deploy || github.ref_type == 'tag' }}
