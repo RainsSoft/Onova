@@ -1,15 +1,17 @@
 ﻿using System;
+using System.Diagnostics.CodeAnalysis;
 using System.IO;
 using System.Linq;
 using System.Reflection;
 using System.Threading.Tasks;
 using Onova.Services;
 
+[assembly: ExcludeFromCodeCoverage]
+
 namespace Onova.Tests.Dummy;
 
 // This executable is used as dummy for end-to-end testing.
 // It can print its current version and use Onova to update.
-
 public static class Program
 {
     private static Version Version => Assembly.GetExecutingAssembly().GetName().Version!;
